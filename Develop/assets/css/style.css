@@ -78,9 +78,9 @@ content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
 
-content {
+
+ 
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -91,53 +91,52 @@ content {
     background-color: #2589bd;
 
 
-lead {
+lead 
     margin-bottom: 32px;
     color: #ffffff;
-}
 
-brand {
+
+brand 
+    margin-bottom: 32px;
+    color: #ffffff;}
+
+cost 
     margin-bottom: 32px;
     color: #ffffff;
-}
 
-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
-lead h3 {
+lead h3 
     margin-bottom: 10px;
     text-align: center;
-}
+
 
 brand h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+
 
 cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
 
-lead img {
+
+benefits lead img 
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
 
-brand img {
+
+brand img 
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+
 
 cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+
 
 search-engine-optimization {
     margin-bottom: 20px;
@@ -146,7 +145,7 @@ search-engine-optimization {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+
 
 online-reputation-management {
     margin-bottom: 20px;
