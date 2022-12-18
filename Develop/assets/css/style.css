@@ -31,17 +31,19 @@ header div {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 nav {
-        float:right;
-        text-align: center;
-        padding: 10px 20px;
-      }
+    float: right;
+    text-align: center;
+    padding: 10px 20px;
+}
+
 /* created navigation bar to make it function and not lose its space to the right of the main logo */
 header ul {
     list-style-type: none;
 }
 
-header  li {
+header li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -80,26 +82,30 @@ content {
     margin-left: 20px;
 
 
- 
+
     margin-right: 20px;
     padding: 20px;
     clear: both;
-    float: right;
+
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 
+}
 
 .lead {
     margin-bottom: 32px;
     color: #ffffff;
+
 }
 
 .brand {
     margin-bottom: 32px;
-    color: #ffffff;}
+    color: #ffffff;
 }
+
+
 .cost {
     margin-bottom: 32px;
     color: #ffffff;
