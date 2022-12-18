@@ -33,8 +33,8 @@ header div {
 }
 nav {
         float:right;
-        text-align: center
-        padding: 10px 20px
+        text-align: center;
+        padding: 10px 20px;
       }
 /* created navigation bar to make it function and not lose its space to the right of the main logo */
 header ul {
@@ -91,63 +91,55 @@ content {
     background-color: #2589bd;
 
 
-lead 
+.lead {
     margin-bottom: 32px;
     color: #ffffff;
+}
 
-
-brand 
+.brand {
     margin-bottom: 32px;
     color: #ffffff;}
-
-cost 
+}
+.cost {
     margin-bottom: 32px;
     color: #ffffff;
+}
 
-
-lead h3 
+.lead h3 {
     margin-bottom: 10px;
     text-align: center;
+}
 
-
-brand h3 {
+.brand h3 {
     margin-bottom: 10px;
     text-align: center;
+}
 
-
-cost h3 {
+.cost h3 {
     margin-bottom: 10px;
     text-align: center;
+}
 
-
-benefits lead img 
+.benefits lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
 
-
-brand img 
+.brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
 
-
-cost img {
+.cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
 
 
-search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-
-
-online-reputation-management {
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -156,7 +148,7 @@ online-reputation-management {
     color: #ffffff;
 }
 
-social-media-marketing {
+.online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -165,40 +157,49 @@ social-media-marketing {
     color: #ffffff;
 }
 
-earch-engine-optimization img {
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img {
     max-height: 200px;
 }
 
-online-reputation-management img {
+.online-reputation-management img {
     max-height: 200px;
 }
 
-social-media-marketing img {
+.social-media-marketing img {
     max-height: 200px;
 }
 
-search-engine-optimization h2 {
+.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-online-reputation-management h2 {
+.online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-social-media-marketing h2 {
+.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}}
+}
 
-footer {
+.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+.footer h2 {
     font-size: 20px;
 }
